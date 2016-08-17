@@ -1,9 +1,6 @@
 ---
 tasks:
-- id: 1
-  title: Test
-  description: Test task go!
 - id: 2
   title: Build a farm
   description: water the plants
-total: 2
+total: 3
